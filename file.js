@@ -1,1 +1,1 @@
-document.write(window.location.search); // 3
+document.write(window.location.search); // 4
