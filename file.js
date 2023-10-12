@@ -1,1 +1,1 @@
-document.write("hello world");
+document.write(window.location.search);
